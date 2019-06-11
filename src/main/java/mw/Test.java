@@ -13,7 +13,7 @@ public class Test {
 				@Override
 				public void run() {
 					for(int j=0;j<10;j++) {
-						System.out.println(Thread.currentThread().getName()+"ggggg*"+j);
+						System.out.println(Thread.currentThread().getName()+"1111"+j);
 					}
 					
 				}
